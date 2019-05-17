@@ -22,13 +22,13 @@ Works for Loopback 2 and 3.
 Install the package through NPM
 
 ```bash
-npm i -S @aliatech/loopback-mongo-aggregate-mixin
+npm i -S @rjnpnigrhi/loopback-mongo-aggregate-mixin
 ```
 
 Install the package through Yarn
 
 ```bash
-yarn add --prod @aliatech/loopback-mongo-distinct-mixin
+yarn add --prod @rjnpnigrhi/loopback-mongo-distinct-mixin
 ```
 
 ## Basic configuration
@@ -293,3 +293,6 @@ for
 [ALIA Technologies](https://github.com/aliatech "Github's profile")
 
 [<img src="http://alialabs.com/images/logos/logo-full-big.png" alt="ALIA Technologies" height=100/>](http://alialabs.com "Go to ALIA Technologies' website")
+
+Changed By
+[Rajan Panigrahi](https://github.com/rjnpnigrhi "Github's profile")
