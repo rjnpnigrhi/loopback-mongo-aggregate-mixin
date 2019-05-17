@@ -292,7 +292,5 @@ Developed by
 for
 [ALIA Technologies](https://github.com/aliatech "Github's profile")
 
-[<img src="http://alialabs.com/images/logos/logo-full-big.png" alt="ALIA Technologies" height=100/>](http://alialabs.com "Go to ALIA Technologies' website")
-
 Changed By
 [Rajan Panigrahi](https://github.com/rjnpnigrhi "Github's profile")
