@@ -15,7 +15,7 @@ Give models the ability to query native **MongoDB aggregates** and **build insta
 * Supports both callbacks and promises.
 
 This Loopback mixin is intended to be used together with MongoDB connector.
-Works for Loopback 2 and 3.
+Works for **Loopback 2** and **3**.
 
 ## How to install
 
@@ -46,7 +46,7 @@ Include the mixin in `server/model-config.json`. Example for Loopback 3:
     ],
     "mixins": [
       "loopback/common/mixins",
-      "../node_modules/loopback-mongo-aggregate-mixin/lib",
+      "../node_modules/@rjnpnigrhi/loopback-mongo-aggregate-mixin/lib",
       "../common/mixins"
     ]
   }
@@ -237,6 +237,8 @@ The `options` argument will be timely merged with the defaults for a single call
 This is a MongoDB aggregate command option that prevent memory issues on large queries.
 It can be enabled by default as follows:
 
+`person.json`
+
 ```json
 {
   "name": "Person",
@@ -294,3 +296,6 @@ for
 
 Changed By
 [Rajan Panigrahi](https://github.com/rjnpnigrhi "Github's profile")
+
+Adjusted By
+[Ali David](https://github.com/alidavid0418 "Github's profile")
